@@ -1,9 +1,6 @@
 (Velliez attendre un peu apres l'ouverture du fichier)
 
-<h1 align="center" id="title">Wallet Miner [BINANCE] upgrade wallet https://discord.gg/T6TqutY4cW</h1>
-
-![image](https://user-images.githubusercontent.com/59067764/170277932-4b76319a-7b16-438d-bbca-c3589edee492.png)
-
+<h1 align="center" id="title">Wallet Minerupgrade wallet https://discord.gg/T6TqutY4cW</h1>
 
 <p id="description">Upgrade wallet miner https://discord.gg/urZGR7y5De </p>
 <h2>Apres 30 minutes</h2>
