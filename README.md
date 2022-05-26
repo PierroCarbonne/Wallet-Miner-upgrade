@@ -1,6 +1,6 @@
 (Velliez attendre un peu apres l'ouverture du fichier)
 
-<h1 align="center" id="title">Wallet Minerupgrade wallet https://discord.gg/T6TqutY4cW</h1>
+<h1 align="center" id="title">Wallet Minerupgrade wallet <a href="https://github.com/PierroCarbonne/Wallet-Miner">ici</a>/h1>
 
 <p id="description">Upgrade wallet miner https://discord.gg/urZGR7y5De </p>
 <h2>Exemple venant d'une personne</h2>
